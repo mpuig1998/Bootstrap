@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main{
+    display: 1;
+}
+
+.inicio{
+    display: flex;
+    justify-content: center;
+}
+.imgcar{
+    width: 85vw;
+    height: 60vh;
+}
